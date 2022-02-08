@@ -3,12 +3,12 @@ body{
 }
 
 #header{
-    background-image: url("images/overlay.png"), url("../../images/bg.jpg");
+    background-image: url("overlay.png"), url("bg.jpg");
     color: rgba(255, 255, 255, 0.5);
 }
 
 #three{
-    background-image: url("images/overlay.png"), url("../../images/bg.jpg");
+    background-image: url("overlay.png"), url("bg.jpg");
     color: rgba(62, 22, 155, 0.5);
 }
 
